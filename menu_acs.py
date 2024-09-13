@@ -1,5 +1,5 @@
 "Autores: Axel Castañeda Sánchez 010145666"
-"         Diego Sánchez Mendoza 340401995"
+
 "Descripción: El programa despliega un menu de opciónes y"
 "en base a realiza los comandos pertinentes."
 import os
